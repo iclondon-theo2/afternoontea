@@ -39,7 +39,7 @@ body {
 	text-align: center;
 	font-family: 'Della Respira', "Baskerville", "Times New Roman", "serif";
 	padding: 0px;
-	color: #f5afc1;
+	color: #76083F;
 	margin: 20px 0px 50px 0px;
 	width: 100%;
 	height: 100%;
@@ -48,7 +48,7 @@ body {
 
 h1 {
 	font-size: 2em;
-	color: #f5afc1;
+	color: #76083F;
 }
 
 h2 {
@@ -56,7 +56,7 @@ h2 {
 }
 
 h3 {
-	color: #f5afc1;
+	color: #76083F;
 	text-decoration: underline; 
 	text-decoration-color: #FDC6D4;
 	text-underline-offset: 0.3em;
@@ -66,21 +66,21 @@ h4 {
 	font-size: 1.8em;
 	text-align: center;
 	font-family: 'Della Respira', "Baskerville", "Times New Roman", "serif";
-	color: #f5afc1;
+	color: #76083F;
 }
 
 .teacat {
 	font-size: 1.3em;
 	text-align: center;
 	font-family: 'Della Respira', "Baskerville", "Times New Roman", "serif";
-	color: #f5afc1;
+	color: #76083F;
 }
 
 .menu-big {
 	font-size: 3.5em;
 	text-align: center;
 	font-family: 'Della Respira', "Baskerville", "Times New Roman", "serif";
-	color: #f5afc1;
+	color: #76083F;
 }
 
 .section {
@@ -114,10 +114,10 @@ h4 {
 .foodname {
 	font-size: 1.2em;
 	font-family: "Lato", "Open Sans", "Helvetica", "Arial", "sans-serif";
+	font-weight: 100;
 	text-align: center;
 	margin: 10px 10px 10px 10px;
-	opacity: 0.7;
-	color: #f5afc1;
+	color: #40413D;
 }
 
 .fooddesc {
