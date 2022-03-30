@@ -12,7 +12,6 @@ body {
 
 /** HEADER **/
 #nav {
-	font-size: 1.6em;
 	font-family: 'Della Respira', "Baskerville", "Times New Roman", "serif";
 	text-align: center;
 }
@@ -23,7 +22,8 @@ body {
 }
 
 #nav a, #prices a {
-	color: #CB997E;
+	color: #76083F;
+	font-size: 1.6em;
 }
 
 #nav ul {
@@ -47,8 +47,9 @@ body {
 }
 
 h1 {
-	font-size: 2em;
+	font-size: 3em;
 	color: #76083F;
+	font-family: 'Della Respira', "Baskerville", "Times New Roman", "serif";
 }
 
 h2 {
